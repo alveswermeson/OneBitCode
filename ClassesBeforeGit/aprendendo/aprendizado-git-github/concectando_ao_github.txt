@@ -1,0 +1,2 @@
+Nessa aula aprendi a me conectar no github, criar um repositorio e a clonar
+um repositorio.
